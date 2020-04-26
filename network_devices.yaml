@@ -1,0 +1,14 @@
+# List of network devices
+
+-
+hostname: router1
+ip: 10.10.10.1
+description: first router
+-
+hostname: router2
+ip: 10.10.10.2
+description: second router
+-
+hostname: switch1
+ip: 10.10.10.2
+description: axs switch
